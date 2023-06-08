@@ -1,0 +1,31 @@
+_repo: Recollections-of-the-eventful-life-of-a-soldier_70866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Donaldson, Joseph
+    birthdate: 1793
+    deathdate: 1830
+    gutenberg_agent_id: '55900'
+    url: http://www.gutenberg.org/2009/agents/55900
+description: ''
+gutenberg_issued: '2023-05-26'
+identifiers:
+  gutenberg: '70866'
+language: en
+pgterms:marc904: https://archive.org/details/recollectionsofe00dona_0/mode/2up
+pgterms:marc905: 20200726041919donaldson
+pgterms:marc906: '1859'
+pgterms:marc907: GB
+production_note: Bob Taylor, Brian Coe and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by University of California libraries)
+publication_note: '  $aUnited Kingdom :$bRichard Griffing & Co, $c1859.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peninsular War, 1807-1814 -- Personal narratives'
+- !lcc 'DA'
+- GITenberg
+title: Recollections of the eventful life of a soldier
+url: http://www.gutenberg.org/ebooks/70866
